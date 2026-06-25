@@ -98,3 +98,154 @@ Internship | Freelance Projects | Remote | Hybrid | India
 ## Featured Projects
 
 <details open>
+<summary><b>Satvix Infotech</b> - Business Website</summary>
+
+<br/>
+
+A live business website built to present services, brand identity, and a professional online presence for Satvix Infotech.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | TypeScript, modern web tooling, Vercel |
+| **Live Site** | [satvix-infotech.vercel.app](https://satvix-infotech.vercel.app/) |
+| **Repository** | [Harshitdubey-lab/satvix.infotech](https://github.com/Harshitdubey-lab/satvix.infotech) |
+
+</details>
+
+<details>
+<summary><b>Resume Analyzer</b> - AI/ML Application</summary>
+
+<br/>
+
+A resume analysis project focused on extracting useful information from resumes and helping users understand resume quality, structure, and improvement areas.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python, frontend/backend application structure |
+| **Focus** | Resume parsing, analysis workflow, practical AI use case |
+| **Repository** | [Harshitdubey-lab/Resume_analyzer](https://github.com/Harshitdubey-lab/Resume_analyzer) |
+
+</details>
+
+<details>
+<summary><b>Hospital Site</b> - Service Website</summary>
+
+<br/>
+
+A responsive hospital website project designed around service presentation, navigation, and a user-friendly web experience.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | JavaScript, HTML, CSS |
+| **Live Site** | [hospital-site-eight.vercel.app](https://hospital-site-eight.vercel.app) |
+| **Repository** | [Harshitdubey-lab/Hospital_site](https://github.com/Harshitdubey-lab/Hospital_site) |
+
+</details>
+
+<details>
+<summary><b>Customer Churn Prediction</b> - Machine Learning Model</summary>
+
+<br/>
+
+A machine learning project using notebook-based experimentation to understand customer churn patterns and build predictive modeling skills.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Jupyter Notebook, Python, ML workflow |
+| **Focus** | Data preprocessing, model training, evaluation |
+| **Repository** | [Harshitdubey-lab/MLmodel_customer_churn_prediction_dataset-](https://github.com/Harshitdubey-lab/MLmodel_customer_churn_prediction_dataset-) |
+
+</details>
+
+<details>
+<summary><b>Frontend Clone Projects</b> - UI Practice</summary>
+
+<br/>
+
+Frontend practice projects built to improve layout, styling, responsive design, and UI recreation skills.
+
+| Project | Repository |
+|:---|:---|
+| Amazon Clone | [Harshitdubey-lab/Amazon](https://github.com/Harshitdubey-lab/Amazon) |
+| Blinkit Clone | [Harshitdubey-lab/Blinkit-clone](https://github.com/Harshitdubey-lab/Blinkit-clone) |
+| Spotify Clone | [Harshitdubey-lab/Spotify-clone](https://github.com/Harshitdubey-lab/Spotify-clone) |
+| School Website | [Harshitdubey-lab/school-website](https://github.com/Harshitdubey-lab/school-website) |
+
+</details>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshitdubey-lab&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitdubey-lab&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Harshitdubey-lab&theme=github-dark-blue&hide_border=true" width="60%" />
+
+</div>
+
+---
+
+## Contribution Map
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution map" />
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+current_focus:
+  education:
+    - "B.Tech Computer Science from RGPV"
+
+  building:
+    - "Satvix Infotech website"
+    - "Resume Analyzer"
+    - "Hospital and business websites"
+    - "Python and machine learning practice projects"
+
+  learning:
+    - "Full stack development"
+    - "Python backend development"
+    - "Machine learning fundamentals"
+    - "AI-powered web applications"
+
+  open_to:
+    - "Internships"
+    - "Freelance web projects"
+    - "Frontend and full stack developer roles"
+    - "Python and ML beginner roles"
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshit/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Harshitdubey--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshitdubey-lab)&nbsp;
+[![Satvix Infotech](https://img.shields.io/badge/Satvix%20Infotech-Live%20Site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://satvix-infotech.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+<b>Building, learning, and improving one project at a time.</b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A,2563EB,14B8A6&height=120&section=footer&animation=fadeIn" width="100%" />
+
+</div>
