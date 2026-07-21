@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Education](https://img.shields.io/badge/RGPV-B.Tech%20Computer%20Science-2563EB?style=for-the-badge&logo=academia&logoColor=white)](https://www.rgpv.ac.in/)&nbsp;
-[![Satvix Infotech](https://img.shields.io/badge/Satvix%20Infotech-Live%20Site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://satvix-infotech.vercel.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-14B8A6?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-hazel-mu-66.vercel.app/)&nbsp;
 [![Location](https://img.shields.io/badge/India-Developer-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
 </div>
@@ -25,7 +25,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshit/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harshitdubey-lab)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Satvix%20Infotech-14B8A6?style=flat-square&logo=firefox&logoColor=white)](https://satvix-infotech.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-14B8A6?style=flat-square&logo=firefox&logoColor=white)](https://portfolio-hazel-mu-66.vercel.app/)
 
 </div>
 
@@ -237,7 +237,7 @@ current_focus:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshit/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Harshitdubey--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshitdubey-lab)&nbsp;
-[![Satvix Infotech](https://img.shields.io/badge/Satvix%20Infotech-Live%20Site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://satvix-infotech.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-14B8A6?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-hazel-mu-66.vercel.app/)
 
 </div>
 
