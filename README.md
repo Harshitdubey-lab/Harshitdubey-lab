@@ -6,6 +6,7 @@
 
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=Building+clean+and+useful+web+applications;Learning+machine+learning+and+AI+engineering;Working+on+real-world+student+and+business+projects;Turning+ideas+into+deployed+products)](https://git.io/typing-svg)
 
 </div>
